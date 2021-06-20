@@ -16,6 +16,10 @@ A simple <b>Redux</b> example
 
 This a **SIMPLE PROJECT** that was developed with the intuition of learn **Redux**, one of greatest features of ReactJS.
 
+In it you will find a small banking system with two actions, deposit and withdrawal. Only that !
+
+And believe me, I was able to understand the concepts of everything that happens much better.
+
 ---
 
 ## 🚀 Technologies
